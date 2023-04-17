@@ -10,7 +10,7 @@ Project 2 of the OpenClassrooms [JavaScript React Developer](https://openclassro
 
 #### Overview
 
-👉 **[Live demo]()**
+👉 **[Live demo](https://booki-zedsc.netlify.app/)**
 
 #### Resources
 
